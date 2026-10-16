@@ -198,23 +198,6 @@ This repository accompanies the paper:
 
 ---
 
-## 👥 Authors
-
-| Name | Role |
-|------|------|
-| Poli Vamsi Vardhan Reddy | Author |
-| Vempalli Surya | Author |
-| M Ramya Sree | Author |
-| Santhanalakshmi S | Faculty guide |
-| [Mettu Siddhartha](https://github.com/Siddhartha80) | Author |
-
----
-
-## 📬 Contact
-
-**Mettu Siddhartha** · [LinkedIn](https://linkedin.com/in/siddhartha-mettu/) · [GitHub](https://github.com/Siddhartha80) · smettu12@asu.edu
-
----
 
 ## ⚠️ Disclaimer
 
