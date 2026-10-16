@@ -174,30 +174,6 @@ jupyter notebook                # open and run the notebooks in order
 
 ---
 
-## 📚 Publication
-
-This repository accompanies the paper:
-
-> **Anti-Viral Drug Design Using Model-Based RL and Generative Models**
-> Poli Vamsi Vardhan Reddy, Vempalli Surya, M Ramya Sree, Santhanalakshmi S, Mettu Siddhartha
-> Department of Computer Science and Engineering, Amrita School of Computing, Bengaluru, Amrita Vishwa Vidyapeetham, India
-
-### Citation
-
-```bibtex
-@inproceedings{reddy2025antiviral,
-  title     = {Anti-Viral Drug Design Using Model-Based RL and Generative Models},
-  author    = {Reddy, Poli Vamsi Vardhan and Surya, Vempalli and Sree, M Ramya and
-               Santhanalakshmi, S and Siddhartha, Mettu},
-  institution = {Amrita Vishwa Vidyapeetham, Bengaluru, India},
-  year      = {2025}
-}
-```
-
-*(Update the venue and year once the publication details are final.)*
-
----
-
 
 ## ⚠️ Disclaimer
 
